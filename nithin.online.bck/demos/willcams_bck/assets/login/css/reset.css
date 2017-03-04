@@ -1,0 +1,27 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+.cd-user-modal{
+   	font-size: 14px !important;
+}
+.cd-form-bottom-message a{
+	font-size: 14px !important;
+}
+.hide-password{
+	font-size: 14px !important;
+}
+.cd-error-message{
+	font-size: 12px !important;
+}
+.cd-form-message{
+	font-size: 14px !important;
+}
+label{
+	font-size: 14px !important;
+}
+.cd-user-modal input{
+	font-size: 16px !important;
+	padding-top: 18px !important;
+	padding-bottom: 18px !important;
+}

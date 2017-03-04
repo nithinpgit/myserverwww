@@ -1,0 +1,5 @@
+{
+	"cert_path": "/home/ubuntu/cert/server.crt",
+	"key_path": "/home/ubuntu/cert/server.key",
+	"room_port": "2087"
+}

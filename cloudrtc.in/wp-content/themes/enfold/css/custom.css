@@ -1,0 +1,83 @@
+/* Have fun adding your style here :) - PS: At all times this file should contain a comment or a rule, otherwise opera might act buggy :( */
+
+/* General Custom CSS */
+
+
+
+#header_meta {
+background-color:#444444;
+border-bottom:1px solid #fff;
+}
+#top #wrap_all .social_bookmarks, #top #wrap_all .social_bookmarks a, #top #wrap_all .social_bookmarks li{
+color:#fff;
+}
+#top .social_bookmarks li {
+border:0px;}
+
+.header_color span{
+color:##818181;
+}
+#t111{
+color:#fff;
+font-size:12px;
+}
+#t112{
+color:#fff;
+font-size:13px;
+}
+
+.trkbtn {
+    background:#ec2127;
+    color:#fff;
+    padding: 0 15px;
+    height: 30px;
+    line-height: 30px !important;
+    right: 0px;
+    top: -60px;
+    z-index: 999;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top: -10px;
+    margin-bottom: -5px;
+    border-bottom:0px solid #ddd;
+}
+#maps .container
+{
+height:300px;
+padding:0 0 0 0;
+margin:0 0 0 0;
+max-width:100%;
+}
+#maps .container p
+{
+
+margin:0 0 0 0;
+
+}
+#Facebook{
+ background-image: url("paper.png");
+}
+
+
+
+/*
+Desktop Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the desktop view of your site */
+
+@media only screen and (min-width: 768px) {
+  /* Add your Desktop Styles here */
+}
+
+
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+  /* Add your Mobile Styles here */
+
+}
+
